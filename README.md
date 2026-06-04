@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jawahar 👋</h1>
 
 <p align="center">
-  <b>Builder at the intersection of AI and brand.</b><br>
-  I build AI products — and get teams to actually <i>use</i> them.
+  <b>Builder at the intersection of AI and product.</b><br>
+  I build AI products — and get people to actually <i>use</i> them.
 </p>
 
 <p align="center">
@@ -18,13 +18,14 @@
 
 - 🏡 Co-founder & Product Lead @ **[Rta Living](https://rtaliving.com)** — smart-home platform merging AI personalisation with IoT.
 - 🎓 Master in Management @ **ESSEC** (Grande École, Top 5 Europe).
-- ⚡ Led **GenAI adoption across 30+ marketing teams** → **40% faster content**.
-- 🧠 I care less about *building* AI, more about getting people to adopt it.
+- ⚡ Led **GenAI adoption across 30+ teams** → **40% faster output**.
+- 🧠 I care less about *building* AI, more about shipping it so people actually use it.
 - 📍 Paris, France.
 
 ### 🚀 What I'm building
 
 - **[rta-living](https://github.com/Jawahars07/rta-living)** — TypeScript monorepo (Turbo + design tokens) powering [rtaliving.com](https://rtaliving.com).
+- **[webforge](https://github.com/Jawahars07/webforge)** — AI agent that generates & deploys websites from a one-line brief (Claude Haiku→Sonnet, prompt caching).
 - **[fertilizer-prediction-ai](https://github.com/Jawahars07/fertilizer-prediction-ai)** — ML model predicting fertilizer from soil pH (Python).
 
 ### 🛠️ Toolkit
