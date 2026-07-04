@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Jawahar 👋</h1>
 
 <p align="center">
-  <b>Builder at the intersection of AI and product.</b><br>
-  I build AI products — and get people to actually <i>use</i> them.
+  <b>I build AI tools — and get teams to actually <i>use</i> them.</b><br>
+  ESSEC MIM, Paris · seeking a 12–24 month apprenticeship in France (AI transformation & digital)
 </p>
 
 <p align="center">
+  <a href="https://jawaharnaidu.com"><img src="https://img.shields.io/badge/Blueprint_City_—_my_3D_portfolio-0A1128?style=flat&logo=safari&logoColor=5FD4F5"></a>
   <a href="https://linkedin.com/in/jawaharnaidu07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://jawaharnaidu.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=safari&logoColor=white"></a>
-  <a href="https://rtaliving.com"><img src="https://img.shields.io/badge/Rta_Living-E3A857?style=flat&logo=googlehome&logoColor=white"></a>
   <a href="mailto:jawaharnaidu07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -16,30 +15,35 @@
 
 ### 🧭 About
 
-- 🏡 Co-founder & Product Lead @ **[Rta Living](https://rtaliving.com)** — smart-home platform merging AI personalisation with IoT.
-- 🎓 Master in Management @ **ESSEC** (Grande École, Top 5 Europe).
-- ⚡ Led **GenAI adoption across 30+ teams** → **40% faster output**.
-- 🧠 I care less about *building* AI, more about shipping it so people actually use it.
-- 📍 Paris, France.
+- 🏙️ My portfolio is a **[3D city that compiles as you scroll](https://jawaharnaidu.com)** — every district a real, working thing. Zero image assets, all drawn in code.
+- ⚡ At **PandaECE** I led GenAI adoption across **30+ client teams** → **40% faster production**, with human review before anything shipped.
+- 🎓 Master in Management @ **ESSEC** (Grande École, Top 5 Europe) — change management & digital transformation track.
+- 🧠 I care less about *building* AI, more about shipping it so people actually adopt it.
+- 📍 Paris, France · available for alternance from **September 2026**.
 
-### 🚀 What I'm building
+### 🚀 The flagship
 
-- **[rta-living](https://github.com/Jawahars07/rta-living)** — TypeScript monorepo (Turbo + design tokens) powering [rtaliving.com](https://rtaliving.com).
+- **[adopt](https://github.com/Jawahars07/adopt)** — GenAI Adoption Companion: turns any work task into a qualified GenAI/Copilot use case — fit score, ready-to-paste prompt, adoption guide. The tool qualifies; a person makes the call. **[Live →](https://adopt-eight.vercel.app)**
+
+### 🔧 The workshops
+
+- **[mindworld-v3](https://github.com/Jawahars07/mindworld-v3)** — Blueprint City itself: scroll-driven 3D portfolio, custom construction-sweep shaders, R3F + Next 16. **[Live →](https://jawaharnaidu.com)**
 - **[webforge](https://github.com/Jawahars07/webforge)** — AI agent that generates & deploys websites from a one-line brief (Claude Haiku→Sonnet, prompt caching).
-- **[fertilizer-prediction-ai](https://github.com/Jawahars07/fertilizer-prediction-ai)** — ML model predicting fertilizer from soil pH (Python).
+- **[tara](https://github.com/Jawahars07/tara)** — voice assistant: local Whisper ears, Claude brain, native macOS notch orb.
+- **[rta-living](https://github.com/Jawahars07/rta-living)** — smart-home platform, in development.
+- **[vehicle-co2-emission-prediction](https://github.com/Jawahars07/vehicle-co2-emission-prediction)** — XGBoost + Flask, from my B.Tech years.
 
 ### 🛠️ Toolkit
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D4A27F?style=flat&logo=anthropic&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jawahars07&show_icons=true&hide_border=true&icon_color=E3A857&title_color=E3A857">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawahars07&layout=compact&hide_border=true&title_color=E3A857">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jawahars07&show_icons=true&hide_border=true&icon_color=5FD4F5&title_color=5FD4F5">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawahars07&layout=compact&hide_border=true&title_color=5FD4F5">
 </p>
