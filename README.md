@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>I build AI tools — and get teams to actually <i>use</i> them.</b><br>
-  ESSEC MIM, Paris · seeking a 12–24 month apprenticeship in France (AI transformation & digital)
+  ESSEC MIM, Paris · open to a 12–24 month AI alternance in France, available now
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 ### 🧭 About
 
 - 🏙️ My portfolio is a **[3D city that compiles as you scroll](https://jawaharnaidu.com)** — every district a real, working thing. Zero image assets, all drawn in code.
-- ⚡ At **PandaECE** I led GenAI adoption across **30+ client teams** → **40% faster production**, with human review before anything shipped.
+- ⚡ At **PandaECE** I ran digital transformation for **30+ SME clients**; GenAI automation cut production time **40%**, with human review before anything shipped.
 - 🎓 Master in Management @ **ESSEC** (Grande École, Top 5 Europe) — change management & digital transformation track.
 - 🧠 I care less about *building* AI, more about shipping it so people actually adopt it — and about being honest when a number would mislead.
-- 📍 Paris, France · available for alternance from **September 2026**.
+- 📍 Paris, France · available for an alternance **now**.
 
 ### 🚀 The flagship
 
@@ -27,11 +27,12 @@
 
   The verdict no single-vendor dashboard can produce: *"Copilot holds 18% adoption for document work, Claude holds 92% — you already pay for both, so this is a routing change, not a purchase."*
 
-  Next.js 16 · Neon Postgres · 4 vendor admin-API connectors · AES-256-GCM credential encryption · nonce CSP · 171 automated checks. **[Live →](https://adopt-eight.vercel.app)**
+  Next.js 16 · Neon Postgres · 4 vendor admin-API connectors · AES-256-GCM credential encryption · nonce CSP · 197 automated checks. **[Live →](https://adopt-eight.vercel.app)**
 
 ### 🔧 The workshops
 
 - **[mindworld-v3](https://github.com/Jawahars07/mindworld-v3)** — Blueprint City itself: scroll-driven 3D portfolio, custom construction-sweep shaders, R3F + Next 16. **[Live →](https://jawaharnaidu.com)**
+- **[ballast](https://github.com/Jawahars07/ballast)** — 11 open-source agent skills that encode when *not* to do something. Claude Code, Codex, Cursor, Gemini CLI.
 - **[webforge](https://github.com/Jawahars07/webforge)** — AI agent that generates & deploys websites from a one-line brief (Claude Haiku→Sonnet, prompt caching).
 - **[tara](https://github.com/Jawahars07/tara)** — voice assistant: local Whisper ears, Claude brain, native macOS notch orb.
 - **[rta-living](https://github.com/Jawahars07/rta-living)** — smart-home platform, in development.
